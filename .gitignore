@@ -1,0 +1,16 @@
+# R session and workspace files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Local package downloads, caches and temporary files
+.Rcheck/
+renv/library/
+*.Rcheck/
+*.log
+
+# Machine-specific OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/

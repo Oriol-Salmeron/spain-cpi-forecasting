@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "Spanish CPI Inflation Forecasting with Time-Series Models"
+authors:
+  - family-names: "Salmerón Mundó"
+    given-names: "Oriol"
+version: 1.0.0
+date-released: 2026-10-22
+license: MIT
+repository-code: "https://github.com/Oriol-Salmeron/spain-cpi-forecasting"
